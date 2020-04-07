@@ -1,4 +1,4 @@
-# intro_to_ml_with_python
+### Introduction to machine learning with python
 A book by Andrea Muller, Ph.D. and Sarah Guido.
 This book contains eight chapters as follow:
 1. Introduction
